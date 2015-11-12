@@ -1,0 +1,43 @@
+h1.color
+{
+    color: blue
+       
+}
+
+.contentCenter img
+{
+    max-width: 100%;
+    height: auto;
+    float: left;
+}
+
+section{
+	padding: 10px;
+	background-color:grey;
+	height: 425px;
+	border: 5px solid black;
+}
+.contentLeft{
+                width:30%;
+ 	 	height: 100%;
+ 	 	margin-left:  10px;
+ 	 	float: left;
+ 	 		
+ 	 	}
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    width: 1330; 
+    height: 313;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:15px;	 	 
+}
