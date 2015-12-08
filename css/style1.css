@@ -1,0 +1,104 @@
+/*This is the index style sheet*/
+
+#loginBox /*login box*/
+{
+    float: left;
+    background: brown; 
+    width: 300px;
+    height: 250px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+#sal /*secure area login*/
+{
+    margin-top: 6px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.inputSize/*inside the login box*/
+{
+    height: 34px;
+    padding: 8px;
+    border: 0px;
+    font-size: inherit;
+    size: 40px;
+    margin-left: 30px;  
+}
+
+span.formControl
+{
+    width: 100%;
+    border: 0px;
+    padding: 18px;
+    float: right;
+}
+
+div.link /*area for links*/
+{
+    float: left;
+    border-top-style: solid;
+    background-color: lightgrey;
+    width: 300px;
+    height: 85px;
+    margin: 50px;
+    margin-left: 15px;
+    line-height: 190%;    
+}
+
+ul.a /*the 2 links*/
+{
+    padding-top: 5px;
+    list-style-type: disc;
+    line-height: 138%;
+    
+}
+
+.buttons /*space for buttons*/
+{
+    margin-left: 40px;
+}
+
+.btn 
+{
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover 
+{
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.NeiuScene /*Neiu image*/
+{
+    margin-left: 550px;
+    margin-top: -277px;
+}
+
+#error
+{
+    color: red;
+    font-size: 26px;
+}

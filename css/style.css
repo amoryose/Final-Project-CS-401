@@ -1,0 +1,59 @@
+/*
+#header
+{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    font-size: 250%;
+   // line-height: 10px;
+}
+
+.header h1 {
+  background-color:brown;
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+.header
+{
+    background-size: 100% 100%;
+}
+.color
+{
+    color: blue
+       
+}
+
+.contentCenter img
+{
+    max-width: 100%;
+    height: auto;
+    float: left;
+}
+
+section{
+	padding: 0px;
+	background-color:lightgrey;
+	//height: 15px;
+	border: 15px solid black;
+}
+.contentLeft{
+                //width:30%;
+ 	 	//height: 50%;
+ 	 	margin-left:  15px;
+ 	 	float: left;
+                height: 109px;
+                width: 347.5px;
+               
+ 	 	}
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:15px;	 	 
+}
+*/

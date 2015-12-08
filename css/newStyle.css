@@ -1,0 +1,64 @@
+/*
+.boxelement1
+{
+    border-color: yellow;
+    border-top-color: fuchia;
+    border-style: double;
+    border-width: 2px;
+    border-left-width: thick;
+    background-color: grey; 
+    background-image: url(zeppelin.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    line-height: 1.8em;
+    font-family: verdana, arial, sans-serif;
+    font-style: italic;
+    margin: 25%;
+    padding: 25px;
+}
+*/
+body
+{
+    background-color: #FFF;
+}
+
+td div{
+    float: left;
+    width: auto;
+}
+
+td select{
+    float: right;
+}
+
+
+#header
+{
+    background-color: #006;
+    color: #FFF;
+    padding: 20px;
+}
+
+#footer
+{
+   background-color: #006;
+   color: #FFF;
+   padding: 20px;
+}
+#lypsum
+{
+    border-color: #FAF0E6;
+    margin-right: 240px;
+}
+#brain2
+{
+    border-width: 2px;
+    border-style: dotted;
+    border-color: #4682B4;
+    background-color: #E0FFFF;
+    width: 200px;
+    text-align: center;
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+}

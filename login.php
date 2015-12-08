@@ -1,6 +1,6 @@
 <?php
 $hn = 'localhost';
-$db = 'publications';
-$un = 'avi';
-$pw = 'avi';
+$db = 'cs401g5';
+$un = 'cs401g5';
+$pw = 'cs401g5';
 ?>

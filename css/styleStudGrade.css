@@ -1,0 +1,64 @@
+/*Student grades css*/
+
+.user
+{
+    margin-top: -30px;
+    font-size: 26px;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+    width: 40%;
+}
+
+th
+{
+    background-color:  lightgrey;
+    font-size: 18px;
+}
+
+td
+{
+    text-align: center;
+    font-size: 15px;
+    background-color: #ffebcc;
+}
+
+.sideNav
+{
+    background: #f9f2ec;   
+    width: 140px;
+    height: 236px;
+    border-style: solid;
+    border-color: brown; 
+    line-height: 50%;
+}
+
+.btn {
+  background: #e6e6e6;
+  background-image: -webkit-linear-gradient(top, #e6e6e6, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #e6e6e6, #e6e6e6);
+  background-image: -ms-linear-gradient(top, #e6e6e6, #e6e6e6);
+  background-image: -o-linear-gradient(top, #e6e6e6, #e6e6e6);
+  background-image: linear-gradient(to bottom, #e6e6e6, #e6e6e6);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 3px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.tabs
+{
+    margin-top: -30px;
+    padding-left: 17px
+}

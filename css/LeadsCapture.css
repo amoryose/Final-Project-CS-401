@@ -1,0 +1,46 @@
+/* Leads Capture */
+
+ul.programs
+{
+    list-style-type: disc;
+    font-size: 18px;
+}
+
+p
+{
+    font-size: 15px;
+}
+
+
+table, th, td
+{
+    border: 1px solid black;
+    width: 0%;
+}
+
+th
+{
+    background-color:  lightgrey;
+    font-size: 18px;
+    width: 10%;
+    text-align: center;
+}
+
+td
+{
+    text-align: center;
+    font-size: 15px;
+}
+
+caption
+{
+    font-size: 26px;
+    text-align: center;
+    color: black;
+}
+
+.nav
+{
+    /*padding-left: 88px;*/
+}
+

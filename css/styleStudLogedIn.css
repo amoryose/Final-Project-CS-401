@@ -1,0 +1,43 @@
+/*This is the StudLogenIn style sheet*/
+
+.user
+{
+    font-size: 26px;
+}
+
+.smallLable
+{
+    text-align: center;
+}
+
+/*end of header section*/
+
+#selectionBox
+{
+    background: #f9f2ec;   
+    width: 340px;
+    height: 320px;
+    border-style: solid;
+    border-color: brown;
+   
+}
+
+ul.a
+{
+    text-align: left;
+    font-size: 36px;
+    text-decoration: underline;
+    list-style-type: none;
+}
+
+p
+{
+    font-size: 12px;
+}
+
+#date_txt
+{
+    color: black;
+    font-family: verdana, helvetica, arial, sans-serif;
+    margin-top: 300px;
+}
